@@ -45,7 +45,7 @@ O relatório será salvo como `locust-report.html`.
 - `GET /posts/1`: Recuperar post
 - `POST /posts`: Criar post (fake)
 
-![Exemplo Report de gráfico Locust](locust-report.html)  
+![Exemplo Report de gráfico Locust](/assets/html_example_locust.PNG)  
 
 ### 🧪 Como gerar os CSVs com Locust
 Use o parâmetro `--csv` no comando `locust`:
