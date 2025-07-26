@@ -6,6 +6,18 @@ Este projeto utiliza [Locust](https://locust.io/) para realizar testes de carga 
 - Python 3.x
 - Locust
 
+## 📁 Estrutura do projeto
+
+```
+load-testing-locust/
+├── locustfile.py
+├── requirements.txt
+├── README.md
+├── locust-report.html
+├── results/
+└── scenarios/
+```
+
 ## 🚀 Como executar
 
 ### Instalar as dependências:
@@ -66,18 +78,6 @@ results/
 └── locust_stats_history.csv
 ```
 ---
-## 📁 Estrutura
-
-```
-load-testing-locust/
-├── locustfile.py
-├── requirements.txt
-├── README.md
-├── locust-report.html
-├── results/
-└── scenarios/
-```
-
 ## 📈 Métricas observáveis
 - Requisições por segundo (RPS)
 - Tempo médio de resposta
