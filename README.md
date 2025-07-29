@@ -1,4 +1,6 @@
 # Teste de Carga com Locust
+![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey?style=for-the-badge)
+![Locust](https://img.shields.io/badge/Locust-Tested-darkgreen?logo=python&logoColor=white&style=for-the-badge)
 
 Este projeto utiliza [Locust](https://locust.io/) para realizar testes de carga em uma API REST pública, simulando múltiplos usuários executando requisições GET e POST.
 
@@ -85,3 +87,6 @@ results/
 - Taxa de erro
 
 > 💡 Esta API é pública e não salva dados de verdade.
+---
+## ⚖️ Licença
+Este projeto está licenciado sob a [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) - Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
