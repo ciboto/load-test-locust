@@ -1,4 +1,5 @@
-# Teste de Carga com Locust
+# Projeto de Testes de Carga com Locust - Performance distribuída e escalável para APIs
+
 ![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey?style=for-the-badge)
 ![Locust](https://img.shields.io/badge/Locust-Tested-darkgreen?logo=python&logoColor=white&style=for-the-badge)
 
